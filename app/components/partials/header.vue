@@ -5,7 +5,7 @@
         <img :src="logo" alt="Logo" />
       </nuxt-link>
     </div>
-
+<!-- 
     <nav class="nav ml-auto">
       <ul class="flex flex-row items-center sm:mt-4 sm:pt-4 md:mt-0 md:pt-0 md:mr-4 lg:mr-8">
         <li>
@@ -22,7 +22,7 @@
           <nuxt-link :to="`/${page.slug}`">{{ page.title }}</nuxt-link>
         </li>
       </ul>
-    </nav>
+    </nav> -->
   </header>
 </template>
 

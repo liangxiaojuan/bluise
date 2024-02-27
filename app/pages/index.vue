@@ -2,35 +2,22 @@
   <section class="home">
     <div class="py-24 md:py-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg:items-start overflow-y-hidden">
-        <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
+        <div  class="home__welcome " >
+          Welcome to KZPporkChef, this is not only a cooking application, but also your best assistant for grilling pork chops. In the unique world of taste, we take you to explore the mystery of delicious food.
+
+KZPporkChef is unusual because it is not just a simple list of recipes, but a true master of pork. Here, you are the director of cooking, and our app is your right-hand assistant, allowing you to master every pork chop with ease.
+
+Choose your favorite type of pork, from tender pork tenderloin to juicy pork chops, we've got you covered to satisfy your discerning taste buds. When it comes to doneness, KZPporkChef doesn’t just mean “cooked”. We understand that every doneness is a taste adventure.
+
+What's unique is that we don't just tell you how long you should cook it for, we more precisely calculate the most appropriate internal temperature. Because every pork chop deserves care, and every cooking session is a profound dialogue with flavor.
+
+KZPporkChef is your secret weapon to challenge the ultimate in cooking and your intimate partner in mastering the art of cooking pork chops. Unleash your creativity, break with tradition and become a master of pork chop cooking!
+        </div>
 
         <div class="mb-12 xl:mb-0">
-          <h4 v-if="isSignedUp">Thank you - we'll be in touch shortly.</h4>
+          <h2 >email: huynhtrannhu864@gmail.com</h2>
 
-          <form
-            v-else
-            @submit.prevent="handleSubmit"
-            name="signups"
-            netlify
-            class="flex items-center border-b border-b-2 border-blue-400 py-2"
-          >
-            <input
-              ref="emailInput"
-              v-model="form.email"
-              class="appearance-none mb-36 bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
-              type="text"
-              name="email"
-              placeholder="your@email.com"
-              aria-label="Email address"
-            />
-
-            <button
-              class="flex-shrink-0 bg-blue-500 hover:bg-blue-700 border-blue-500 hover:border-blue-700 text-sm border-4 text-white py-1 px-2 rounded"
-              type="submit"
-            >
-              Sign Up
-            </button>
-          </form>
+          
         </div>
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
