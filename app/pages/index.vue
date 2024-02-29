@@ -11,7 +11,7 @@ Whether you are planning a new soccer field or need to maintain your existing tu
         <div class="mb-12 xl:mb-0">
           <br>
           <br>
-          <h2 class="text-6">Email: ledinhnhamaiaoe9854@gmail.com</h2>
+          <h2 class="text-2xl">Email: ledinhnhamaiaoe9854@gmail.com</h2>
 
           
         </div>
