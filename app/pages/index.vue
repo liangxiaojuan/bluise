@@ -3,21 +3,15 @@
     <div class="py-24 md:py-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg:items-start overflow-y-hidden">
         <div  class="home__welcome text-4" >
-          Welcome to KZPporkChef, this is not only a cooking application, but also your best assistant for grilling pork chops. In the unique world of taste, we take you to explore the mystery of delicious food.
-
-KZPporkChef is unusual because it is not just a simple list of recipes, but a true master of pork. Here, you are the director of cooking, and our app is your right-hand assistant, allowing you to master every pork chop with ease.
-
-Choose your favorite type of pork, from tender pork tenderloin to juicy pork chops, we've got you covered to satisfy your discerning taste buds. When it comes to doneness, KZPporkChef doesn’t just mean “cooked”. We understand that every doneness is a taste adventure.
-
-What's unique is that we don't just tell you how long you should cook it for, we more precisely calculate the most appropriate internal temperature. Because every pork chop deserves care, and every cooking session is a profound dialogue with flavor.
-
-KZPporkChef is your secret weapon to challenge the ultimate in cooking and your intimate partner in mastering the art of cooking pork chops. Unleash your creativity, break with tradition and become a master of pork chop cooking!
+          ZQlawnAssist is a convenient and practical application designed to help users calculate the grass seed weight and planting density required for football fields. Whether you're a soccer pitch designer, grounds manager or hobbyist, this app provides you with accurate data to help you plan and maintain your ideal soccer turf.
+Using ZQlawnAssist is very simple. First, you simply enter the dimensions of your soccer pitch, including length and width. Next, choose the type of turf, such as a common turf variety or a specific turf variety for football fields. Then, click the Calculate button and ZQlawnAssist will automatically calculate the required grass seed weight and planting density based on the information you provide.
+Whether you are planning a new soccer field or need to maintain your existing turf, ZQlawnAssist is the ideal choice. Download and use ZQlawnAssist to make lawn planting easier and more efficient!
         </div>
 
         <div class="mb-12 xl:mb-0">
           <br>
           <br>
-          <h2 class="text-6">Email: huynhtrannhu864@gmail.com</h2>
+          <h2 class="text-6">Email: ledinhnhamaiaoe9854@gmail.com</h2>
 
           
         </div>
